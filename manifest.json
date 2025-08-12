@@ -1,0 +1,10 @@
+{
+    "unique_identifier": "tic_tac_toe",
+    "name": "Tic Tac Toe",
+    "author": "Bernard Jenniskens",
+    "version": "1",
+    "interpreter": "",
+    "metadata_file": "",
+    "binary_path": "tic_tac_toe.elf",
+    "source": 1
+}
